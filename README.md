@@ -1,7 +1,8 @@
 # Self-Driving-Car-Engineer-Nanodegree-Program-Term3--Project2
-Label the pixels of a road in images using a Fully Convolutional Network (FCN).
+## Semantic Segmentation 
+[![Udacity Self-Driving Car Engineer Nanodegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-# Semantic Segmentation
+Label the pixels of a road in images using a Fully Convolutional Network (FCN).
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
