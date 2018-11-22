@@ -56,8 +56,12 @@ Within `main.py`, there are a few optional sections you can also choose to imple
  
 ### Acceptence Criteria and final output screenshot
 
- [Link ] (https://review.udacity.com/#!/rubrics/989/view).
+ [Link] (https://review.udacity.com/#!/rubrics/989/view).
 
- [Final OutPut] (https://github.com/atulkumarpccs/Self-Driving-Car-Engineer-Nanodegree-Program-Term3--Project2/blob/master/Run_Time%20Project%202.PNG), can be seen here. 
+ [Final OutPut] 
+ 
+ <img width="850" height="300" src="/Run_Time%20Project%202.PNG">
+ 
+ can be seen here. 
 
 
