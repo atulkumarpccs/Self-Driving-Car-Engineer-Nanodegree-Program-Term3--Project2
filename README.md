@@ -56,8 +56,8 @@ Within `main.py`, there are a few optional sections you can also choose to imple
  
 ### Acceptence Criteria and final output screenshot
 
- [Link ](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
+ [Link ] (https://review.udacity.com/#!/rubrics/989/view).
 
- [Fianl OutPut](https://www.udacity.com/courses/ud777), as well. 
+ [Final OutPut] (https://github.com/atulkumarpccs/Self-Driving-Car-Engineer-Nanodegree-Program-Term3--Project2/blob/master/Run_Time%20Project%202.PNG), can be seen here. 
 
 
