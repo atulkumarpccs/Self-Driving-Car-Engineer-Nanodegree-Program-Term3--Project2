@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gelstudios/gitfiti.svg?branch=master)](https://travis-ci.org/gelstudios/gitfiti)
+
 # Self-Driving-Car-Engineer-Nanodegree-Program-Term3--Project2
 ## Semantic Segmentation 
 [![Udacity Self-Driving Car Engineer Nanodegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
